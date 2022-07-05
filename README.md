@@ -19,7 +19,7 @@ My latest project: https://e-social-book.netlify.app/
 </a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekrocow&theme=light" alt="nekrocow" /></p>
 
-<h3 align="left">Tech skills:</h3>
+<h3 align="center">Tech skills:</h3>
 <p align="center"> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -64,4 +64,12 @@ My latest project: https://e-social-book.netlify.app/
 
 </p>
 
-- 📫 How to reach me: 
+
+<h3 align="center"> 📫 How to reach me: </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/manuel-kloster-backend/" target="_blank" rel="noreferrer">
+ <img src="https://camo.githubusercontent.com/e591fde37567a32e51fb1b98924f4df8e45199dca985500749e2a9938fa3e322/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d69636f6e2e737667" alt="linkedin" />
+ </a>
+ <a href="kloster.am@gmail.com" target="_blank" rel="noreferrer">
+ <img src="https://camo.githubusercontent.com/e1fb4ce58fc1074489bdbdacd0c175ffa7cbd1182ecb3ac4cb77ea8b8271288f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676d61696c2f676d61696c2d69636f6e2e737667" alt="gmail" />
+ </a> </p>
