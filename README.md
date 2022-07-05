@@ -2,9 +2,14 @@
 
 <h3 align="center">A Backend developer from Argentina to the 🌎</h3>
 
-My latest project: https://e-social-book.netlify.app/
+My latest projects:
+· E-Social, a book trading app — https://e-social-book.netlify.app/
 
 <img height="160em"  src="https://media-exp2.licdn.com/dms/image/C4D2DAQH_sU5o72BW1A/profile-treasury-image-shrink_800_800/0/1657046587784?e=1657659600&v=beta&t=35KDLFpGs6tw6VRoIu_Tq0mOHRdVmtfpRotgJ02h51I" />
+
+· VG app, a videogame catalog app — https://pi-videogames-nk.vercel.app/
+
+<img height="160em"  src="https://i.imgur.com/VSw4UxW.png" />
 
 - 🔭 I’m currently working on a new idea I'd like to develop: a web "Choose your Own Adventure" like app!
 - 🌱 I’m currently improving my skills on the technologies I've learned at Henry.
