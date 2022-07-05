@@ -24,7 +24,7 @@ My latest projects:
 </a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekrocow&theme=light" alt="nekrocow" /></p>
 
-<h3 align="center">Tech skills:</h3>
+<h3 align="center">💻 Tech skills:</h3>
 <p align="center"> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
